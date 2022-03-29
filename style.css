@@ -22,3 +22,51 @@
 .desc{
     color:#00C0F0;
 }
+.bg-color{
+    background-color:rgb(130, 202, 255);
+    border-radius: 10px;
+    color: azure;
+    box-shadow: rgba(130, 202, 255, 0.5) 0px 8px 24px;
+}
+.bg-color-1{
+    background-color: rgb(255, 182, 130);
+    border-radius: 10px;
+    color: azure;
+    box-shadow: rgba(255, 182, 130, 0.5) 0px 8px 24px;
+}
+.bg-color-2{
+    background-color: rgb(144, 238, 144);
+    border-radius: 10px;
+    color: azure;
+    box-shadow: rgba(144, 238, 144, 0.5) 0px 8px 24px;
+}
+.orange-color{
+    color: tomato;
+}  
+.data  {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+    
+}
+.slogan{
+    font-family: 'Source Serif Pro', serif;
+    color: navy;
+    font-size: 24px;
+}
+.pink-bg{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.footer{
+    text-align: center;
+}
+.font{
+    font-family: 'Poppins', sans-serif;
+}
+.input-class{
+    border: none;
+    border-radius: 4px;
+    padding: 7px;
+    border-color: lightskyblue;
+}
+
